@@ -19,14 +19,15 @@
 .project-values-title {
     align-content: center;
     align-items: center;
+    background: $whitish;
     display: flex;
     justify-content: space-between;
     margin-bottom: 1rem;
+    padding: .5rem 1rem;
     text-transform: uppercase;
     h2 {
         margin: 0;
         span {
-            color: $gray-light;
             margin-left: .5rem;
             text-transform: none;
         }
