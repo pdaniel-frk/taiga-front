@@ -42,6 +42,7 @@ button {
 .button-gray,
 a.button-gray {
     background: $button-gray;
+    color: $white;
     &:hover {
         background: $fresh-taiga;
         color: $white;
